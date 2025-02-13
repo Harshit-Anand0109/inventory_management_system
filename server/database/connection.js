@@ -13,7 +13,7 @@ if (useLocalhost) {
         user: "root",
         host: "localhost",
         password: "",
-        database: "e_commerce",
+        database: "shop",
     };
 } else {
     connectionParams = {
